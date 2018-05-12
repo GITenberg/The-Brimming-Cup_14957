@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1781
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
 description: An American family in small Vermont village.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14957#The-Brimming-Cup
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
